@@ -14,3 +14,6 @@ needed libraries:
   <Br>
   tensorflow
   <Br>
+data:
+    <Br>
+      https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals
